@@ -10403,7 +10403,7 @@ a.text-darker:focus {
   background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);
   background-image: -o-linear-gradient(to bottom left, #344675, #263148, #344675);
   background-image: -moz-linear-gradient(to bottom left, #344675, #263148, #344675);
-  background-image: linear-gradient(to bottom left, #000000, #11a913, #000000);
+  background-image: linear-gradient(to bottom left, #11a913, #11a913, #11a913);
   background-size: 210% 210%;
   background-position: top right;
   background-color: #344675;
@@ -14258,7 +14258,7 @@ img {
     left: 0;
     top: 0;
     margin: 0.7rem;
-    background: #1f2251;
+    background: #212529;
     border-radius: 0.2857rem;
     padding: 1.4rem;
   }
